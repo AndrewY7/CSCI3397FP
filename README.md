@@ -4,6 +4,6 @@ CSCI3397 Biomedical Image Analysis Final Project Repository - Jeong-Wan Choi, St
 No scripts were created to run the files. They were created in Notebooks on Colaboratory and Kaggle.
 
 File Responsibility:
-- "Brain Seg U-Net, DenseNet, ResNet": Andrew Yang
+- "brain-seg-u-net-densenet-resnet.ipynb": Andrew Yang
 - "": Steven Kim
 - "": Jeong-Wan Choi
