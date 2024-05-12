@@ -5,5 +5,5 @@ No scripts were created to run the files. They were created in Notebooks on Cola
 
 File Responsibility:
 - "brain-seg-u-net-densenet-resnet.ipynb": Andrew Yang
-- "": Steven Kim
-- "": Jeong-Wan Choi
+- "brain_mri_segmentation_sam.ipynb": Steven Kim
+- contributions to both: Jeong-Wan Choi
